@@ -1,6 +1,6 @@
 # Foundations-of-Computer-Science
-
-Starting from the Google Play Store dataset, do the following:
+Develop a python toolkit for data mining using pandas, numpy, matplolib.pyplot, libraries. 
+The workflow is composed by the following steps:
 
 Convert the app sizes to a number
 Convert the number of installs to a number
@@ -15,7 +15,6 @@ For each genre, compute the average rating. What is the genre with highest avera
 For each app, compute the approximate income, obtain as a product of number of installs and price.
 For each app, compute its minimum and maximum Sentiment_polarity
 The following part of the exercise must be done only by groups with two or three people
-
 For each app, compute the average number of words in its reviews
 For each app, compute its longest review
 For each app, compute the ratio between the number of installs and the number of reviews
@@ -23,7 +22,6 @@ Cluster the apps according to the major android version (the first two digits â€
 For each cluster, compute the average date and the last date of an update.
 Excluding the free apps, what is the content rating with highest average price?
 The following part of the exercise must be done only by groups with three people
-
 What is the genre with the highest total income?
 What is the genre with the highest fraction of free apps (over the number of all apps)?
 For each rating, compute the average income
