@@ -2,8 +2,8 @@
 Develop a python toolkit for data mining using pandas, numpy, matplolib.pyplot, libraries. 
 The workflow is composed by the following steps:
 
-Convert the app sizes to a number
-Convert the number of installs to a number
+Convert the app sizes to a number/
+Convert the number of installs to a number/
 Transform “Varies with device” into a missing value
 Convert Current Ver and Android Ver into a dotted number (e.g. 4.0.3 or 4.2)
 Remove the duplicates
